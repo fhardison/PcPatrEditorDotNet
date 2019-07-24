@@ -1,0 +1,99 @@
+Exception: System.MissingMethodException: No parameterless constructor defined for this object.
+   at System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)
+   at System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   at System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   at System.Activator.CreateInstance(Type type, Boolean nonPublic)
+   at System.Activator.CreateInstance(Type type)
+   at GuiLabs.Editor.Blocks.BlockActivatorFactory.CreateBlocks() in c:\Users\TFHardison\Downloads\structurededitor-70298\Main\Core\Blocks\Factory\BlockActivatorFactory.cs:line 86
+
+Additional info: BlockActivatorFactory.CreateBlocks: Couldn't instantiate: PCPATR.Blocks.EmptySymbolBlock`1[PCPATR.Blocks.EmptyNonTerminalSymbolBlock]
+Exception: System.MissingMethodException: No parameterless constructor defined for this object.
+   at System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)
+   at System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   at System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   at System.Activator.CreateInstance(Type type, Boolean nonPublic)
+   at System.Activator.CreateInstance(Type type)
+   at GuiLabs.Editor.Blocks.BlockActivatorFactory.CreateBlocks() in c:\Users\TFHardison\Downloads\structurededitor-70298\Main\Core\Blocks\Factory\BlockActivatorFactory.cs:line 86
+
+Additional info: BlockActivatorFactory.CreateBlocks: Couldn't instantiate: PCPATR.Blocks.EmptySymbolBlock`1[PCPATR.Blocks.EmptyNonTerminalSymbolBlock]
+Exception: System.MissingMethodException: No parameterless constructor defined for this object.
+   at System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)
+   at System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   at System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   at System.Activator.CreateInstance(Type type, Boolean nonPublic)
+   at System.Activator.CreateInstance(Type type)
+   at GuiLabs.Editor.Blocks.BlockActivatorFactory.CreateBlocks() in c:\Users\TFHardison\Downloads\structurededitor-70298\Main\Core\Blocks\Factory\BlockActivatorFactory.cs:line 86
+
+Additional info: BlockActivatorFactory.CreateBlocks: Couldn't instantiate: PCPATR.Blocks.EmptySymbolBlock`1[PCPATR.Blocks.EmptyNonTerminalSymbolBlock]
+Exception: System.MissingMethodException: No parameterless constructor defined for this object.
+   at System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)
+   at System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   at System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   at System.Activator.CreateInstance(Type type, Boolean nonPublic)
+   at System.Activator.CreateInstance(Type type)
+   at GuiLabs.Editor.Blocks.BlockActivatorFactory.CreateBlocks() in c:\Users\TFHardison\Downloads\structurededitor-70298\Main\Core\Blocks\Factory\BlockActivatorFactory.cs:line 86
+
+Additional info: BlockActivatorFactory.CreateBlocks: Couldn't instantiate: PCPATR.Blocks.EmptySymbolBlock`1[PCPATR.Blocks.EmptyNonTerminalSymbolBlock]
+Exception: System.MissingMethodException: No parameterless constructor defined for this object.
+   at System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)
+   at System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   at System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   at System.Activator.CreateInstance(Type type, Boolean nonPublic)
+   at System.Activator.CreateInstance(Type type)
+   at GuiLabs.Editor.Blocks.BlockActivatorFactory.CreateBlocks() in c:\Users\TFHardison\Downloads\structurededitor-70298\Main\Core\Blocks\Factory\BlockActivatorFactory.cs:line 86
+
+Additional info: BlockActivatorFactory.CreateBlocks: Couldn't instantiate: PCPATR.Blocks.EmptySymbolBlock`1[PCPATR.Blocks.EmptyNonTerminalSymbolBlock]
+Exception: System.MissingMethodException: No parameterless constructor defined for this object.
+   at System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)
+   at System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   at System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   at System.Activator.CreateInstance(Type type, Boolean nonPublic)
+   at System.Activator.CreateInstance(Type type)
+   at GuiLabs.Editor.Blocks.BlockActivatorFactory.CreateBlocks() in c:\Users\TFHardison\Downloads\structurededitor-70298\Main\Core\Blocks\Factory\BlockActivatorFactory.cs:line 86
+
+Additional info: BlockActivatorFactory.CreateBlocks: Couldn't instantiate: PCPATR.Blocks.EmptySymbolBlock`1[PCPATR.Blocks.EmptyNonTerminalSymbolBlock]
+Exception: System.MissingMethodException: No parameterless constructor defined for this object.
+   at System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)
+   at System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   at System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   at System.Activator.CreateInstance(Type type, Boolean nonPublic)
+   at System.Activator.CreateInstance(Type type)
+   at GuiLabs.Editor.Blocks.BlockActivatorFactory.CreateBlocks() in c:\Users\TFHardison\Downloads\structurededitor-70298\Main\Core\Blocks\Factory\BlockActivatorFactory.cs:line 86
+
+Additional info: BlockActivatorFactory.CreateBlocks: Couldn't instantiate: PCPATR.Blocks.EmptySymbolBlock`1[PCPATR.Blocks.PcpatrNonTerminalSymbolblock]
+Exception: System.MissingMethodException: No parameterless constructor defined for this object.
+   at System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)
+   at System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   at System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   at System.Activator.CreateInstance(Type type, Boolean nonPublic)
+   at System.Activator.CreateInstance(Type type)
+   at GuiLabs.Editor.Blocks.BlockActivatorFactory.CreateBlocks() in c:\Users\TFHardison\Downloads\structurededitor-70298\Main\Core\Blocks\Factory\BlockActivatorFactory.cs:line 86
+
+Additional info: BlockActivatorFactory.CreateBlocks: Couldn't instantiate: PCPATR.Blocks.EmptySymbolBlock`1[PCPATR.Blocks.PcpatrNonTerminalSymbolblock]
+Exception: System.MissingMethodException: No parameterless constructor defined for this object.
+   at System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)
+   at System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   at System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   at System.Activator.CreateInstance(Type type, Boolean nonPublic)
+   at System.Activator.CreateInstance(Type type)
+   at GuiLabs.Editor.Blocks.BlockActivatorFactory.CreateBlocks() in c:\Users\TFHardison\Downloads\structurededitor-70298\Main\Core\Blocks\Factory\BlockActivatorFactory.cs:line 86
+
+Additional info: BlockActivatorFactory.CreateBlocks: Couldn't instantiate: PCPATR.Blocks.EmptySymbolBlock`1[PCPATR.Blocks.PcpatrNonTerminalSymbolblock]
+Exception: System.MissingMethodException: No parameterless constructor defined for this object.
+   at System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)
+   at System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   at System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   at System.Activator.CreateInstance(Type type, Boolean nonPublic)
+   at System.Activator.CreateInstance(Type type)
+   at GuiLabs.Editor.Blocks.BlockActivatorFactory.CreateBlocks() in c:\Users\TFHardison\Downloads\structurededitor-70298\Main\Core\Blocks\Factory\BlockActivatorFactory.cs:line 86
+
+Additional info: BlockActivatorFactory.CreateBlocks: Couldn't instantiate: PCPATR.Blocks.EmptySymbolBlock`1[PCPATR.Blocks.PcpatrNonTerminalSymbolblock]
+Exception: System.MissingMethodException: No parameterless constructor defined for this object.
+   at System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)
+   at System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   at System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   at System.Activator.CreateInstance(Type type, Boolean nonPublic)
+   at System.Activator.CreateInstance(Type type)
+   at GuiLabs.Editor.Blocks.BlockActivatorFactory.CreateBlocks() in c:\Users\TFHardison\Downloads\structurededitor-70298\Main\Core\Blocks\Factory\BlockActivatorFactory.cs:line 86
+
+Additional info: BlockActivatorFactory.CreateBlocks: Couldn't instantiate: PCPATR.Blocks.EmptySymbolBlock`1[PCPATR.Blocks.PcpatrNonTerminalSymbolblock]

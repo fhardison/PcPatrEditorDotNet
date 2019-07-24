@@ -1,0 +1,16 @@
+C:\Users\TFHardison\Downloads\structurededitor-70298\Main\Utils\bin\Debug\GuiLabs.Utils.dll
+C:\Users\TFHardison\Downloads\structurededitor-70298\Main\Utils\bin\Debug\GuiLabs.Utils.pdb
+C:\Users\TFHardison\Downloads\structurededitor-70298\Main\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+C:\Users\TFHardison\Downloads\structurededitor-70298\Main\Utils\obj\Debug\GuiLabs.Utils.EnumSelectorCombo.resources
+C:\Users\TFHardison\Downloads\structurededitor-70298\Main\Utils\obj\Debug\GuiLabs.Utils.ObjectViewer.resources
+C:\Users\TFHardison\Downloads\structurededitor-70298\Main\Utils\obj\Debug\Utils.csproj.GenerateResource.Cache
+C:\Users\TFHardison\Downloads\structurededitor-70298\Main\Utils\obj\Debug\GuiLabs.Utils.dll
+C:\Users\TFHardison\Downloads\structurededitor-70298\Main\Utils\obj\Debug\GuiLabs.Utils.pdb
+C:\Users\TFHardison\SkyDrive\Thesis\structurededitor-70298\Main\Utils\bin\Debug\GuiLabs.Utils.dll
+C:\Users\TFHardison\SkyDrive\Thesis\structurededitor-70298\Main\Utils\bin\Debug\GuiLabs.Utils.pdb
+C:\Users\TFHardison\SkyDrive\Thesis\structurededitor-70298\Main\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+C:\Users\TFHardison\SkyDrive\Thesis\structurededitor-70298\Main\Utils\obj\Debug\GuiLabs.Utils.EnumSelectorCombo.resources
+C:\Users\TFHardison\SkyDrive\Thesis\structurededitor-70298\Main\Utils\obj\Debug\GuiLabs.Utils.ObjectViewer.resources
+C:\Users\TFHardison\SkyDrive\Thesis\structurededitor-70298\Main\Utils\obj\Debug\Utils.csproj.GenerateResource.Cache
+C:\Users\TFHardison\SkyDrive\Thesis\structurededitor-70298\Main\Utils\obj\Debug\GuiLabs.Utils.dll
+C:\Users\TFHardison\SkyDrive\Thesis\structurededitor-70298\Main\Utils\obj\Debug\GuiLabs.Utils.pdb
